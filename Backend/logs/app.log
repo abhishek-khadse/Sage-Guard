@@ -1,0 +1,35 @@
+2025-04-16 21:16:38.082 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 21:16:38.223 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cuda
+2025-04-16 21:24:09.421 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 21:24:09.580 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cuda
+2025-04-16 21:24:17.092 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 21:24:17.202 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cuda
+2025-04-16 21:46:20.134 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 21:46:20.256 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cuda
+2025-04-16 21:47:34.650 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 21:47:34.744 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cuda
+2025-04-16 21:47:59.892 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 21:48:00.031 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cuda
+2025-04-16 22:06:17.615 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 22:06:17.616 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cpu
+2025-04-16 22:07:39.355 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 22:07:39.356 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cpu
+2025-04-16 22:07:41.093 | ERROR    | app.db.supabase:<module>:24 - Error connecting to Supabase: {'code': '42P01', 'details': None, 'hint': None, 'message': 'relation "public.users" does not exist'}
+2025-04-16 22:11:28.084 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 22:11:28.085 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cpu
+2025-04-16 22:11:29.489 | INFO     | app.db.supabase:<module>:22 - Successfully connected to Supabase
+2025-04-16 22:11:47.620 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 22:11:47.621 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cpu
+2025-04-16 22:11:48.850 | INFO     | app.db.supabase:<module>:22 - Successfully connected to Supabase
+2025-04-16 22:13:42.320 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 22:13:42.321 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cpu
+2025-04-16 22:13:43.692 | INFO     | app.db.supabase:<module>:22 - Successfully connected to Supabase
+2025-04-16 22:14:33.283 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 22:14:33.284 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cpu
+2025-04-16 22:14:35.084 | INFO     | app.db.supabase:<module>:22 - Successfully connected to Supabase
+2025-04-16 22:15:11.749 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 22:15:11.750 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cpu
+2025-04-16 22:15:13.402 | INFO     | app.db.supabase:<module>:22 - Successfully connected to Supabase
+2025-04-16 22:16:28.626 | WARNING  | app.ml.model:load_model:47 - No pre-trained model found at models/accident_detector.pt. Using default model.
+2025-04-16 22:16:28.626 | INFO     | app.ml.model:load_model:53 - Model loaded successfully on cpu
+2025-04-16 22:16:29.910 | INFO     | app.db.supabase:<module>:22 - Successfully connected to Supabase
